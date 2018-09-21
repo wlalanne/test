@@ -1,3 +1,4 @@
 SELECT *
-  FROM dual
-;
+  FROM sf.account
+ LIMIT 1
+ ;
