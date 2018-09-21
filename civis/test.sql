@@ -1,4 +1,4 @@
-SELECT *
-  FROM sf.account
+SELECT id 
+  FROM sf.campaign
  LIMIT 1
  ;
